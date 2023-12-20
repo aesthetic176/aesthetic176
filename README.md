@@ -1,4 +1,3 @@
-[![MasterHead](https://i0.wp.com/vizartpandey.com/wp-content/uploads/2023/08/Animated-Data-Flow.gif?fit=1071%2C729&ssl=1)](https://aesthetic176.io)
 <h1 align="center">Hi 👋, I'm Moneesh Nagireddy</h1>
 <h3 align="center">A passionate data analyst,software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif">
