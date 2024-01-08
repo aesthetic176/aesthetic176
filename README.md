@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aesthetic176&label=Profile%20views&color=0e75b6&style=flat" alt="aesthetic176" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing,**
+- 🌱 I’m currently learning **Generative Ai**
 
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/moneeshnagireddy/articles](https://auth.geeksforgeeks.org/user/moneeshnagireddy/articles)
 
